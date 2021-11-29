@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dymo M10 Scale Python", "Dymo M10 Scale Python\Dymo M10 Scale Python.pyproj", "{55116FD6-5456-45D8-8380-57F583710C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55116FD6-5456-45D8-8380-57F583710C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55116FD6-5456-45D8-8380-57F583710C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F97B0DD6-2929-44CB-9A81-CE0A67387DA1}
+	EndGlobalSection
+EndGlobal
